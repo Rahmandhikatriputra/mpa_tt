@@ -1,0 +1,33 @@
+branch,part_number,part_name,category,stock_on_hand,min_stock,uom
+Jakarta,UC-TS-320,Track Shoe,UC,60,10,pcs
+Jakarta,UC-RL-450,Roller,UC,0,9,pcs
+Jakarta,UC-RL-450-SH,Roller,UC,25,9,pcs
+Jakarta,GET-TT-120,Tooth,GET,104,16,pcs
+Jakarta,GET-CE-210,Cutting Edge,GET,89,18,pcs
+Jakarta,TY-27.00R49,Tyre 27.00R49,Tyre,33,21,pcs
+Jakarta,TY-18.00R33,Tyre 18.00R33,Tyre,77,17,pcs
+Banjarmasin,UC-TS-320,Track Shoe,UC,26,13,pcs
+Banjarmasin,UC-RL-450,Roller,UC,25,19,pcs
+Banjarmasin,GET-TT-120,Tooth,GET,85,19,pcs
+Banjarmasin,GET-CE-210,Cutting Edge,GET,55,15,pcs
+Banjarmasin,TY-27.00R49,Tyre 27.00R49,Tyre,62,20,pcs
+Banjarmasin,TY-18.00R33,Tyre 18.00R33,Tyre,60,21,pcs
+Samarinda,UC-TS-320,Track Shoe,UC,25,8,pcs
+Samarinda,UC-RL-450,Roller,UC,0,12,pcs
+Samarinda,UC-RL-450-SH,Roller,UC,25,9,pcs
+Samarinda,GET-TT-120,Tooth,GET,112,7,pcs
+Samarinda,GET-CE-210,Cutting Edge,GET,51,19,pcs
+Samarinda,TY-27.00R49,Tyre 27.00R49,Tyre,46,18,pcs
+Samarinda,TY-18.00R33,Tyre 18.00R33,Tyre,89,18,pcs
+Balikpapan,UC-TS-320,Track Shoe,UC,87,6,pcs
+Balikpapan,UC-RL-450,Roller,UC,108,18,pcs
+Balikpapan,GET-TT-120,Tooth,GET,58,23,pcs
+Balikpapan,GET-CE-210,Cutting Edge,GET,6,7,pcs
+Balikpapan,TY-27.00R49,Tyre 27.00R49,Tyre,110,18,pcs
+Balikpapan,TY-18.00R33,Tyre 18.00R33,Tyre,106,19,pcs
+Makassar,UC-TS-320,Track Shoe,UC,108,22,pcs
+Makassar,UC-RL-450,Roller,UC,37,7,pcs
+Makassar,GET-TT-120,Tooth,GET,114,19,pcs
+Makassar,GET-CE-210,Cutting Edge,GET,63,9,pcs
+Makassar,TY-27.00R49,Tyre 27.00R49,Tyre,27,14,pcs
+Makassar,TY-18.00R33,Tyre 18.00R33,Tyre,38,21,pcs

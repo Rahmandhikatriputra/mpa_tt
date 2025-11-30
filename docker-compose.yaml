@@ -1,0 +1,41 @@
+services:
+  cloudbeaver:
+    image: dbeaver/cloudbeaver:latest
+    container_name: cloudbeaver
+    restart: unless-stopped
+    ports:
+      - "8978:8978"
+    # environment:
+    #   CB_SERVER_NAME: CloudBeaver
+    #   CB_BASE_URL: http://localhost:8978
+    #   CB_ADMIN_NAME: admin
+    #   CB_ADMIN_PASSWORD: admin
+    volumes:
+      - ./cloudbeaver/workspace:/opt/cloudbeaver/workspace
+      - ./cloudbeaver/logs:/opt/cloudbeaver/logs
+
+  postgres:
+    image: postgres:17
+    container_name: postgres
+    restart: always
+    healthcheck:
+      test: ["CMD", "pg_isready", "-U", "postgres"]
+      interval: 10s
+      retries: 5
+      start_period: 5s
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: postgres
+    volumes:
+      - ./app/init-db.sh:/docker-entrypoint-initdb.d/init-db.sh
+
+  ingestor:
+    build: ./app
+    container_name: data-ingestor
+    depends_on:
+      - postgres
+    volumes:
+      - ./app/data:/app/data

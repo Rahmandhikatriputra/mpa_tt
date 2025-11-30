@@ -1,0 +1,121 @@
+sale_id,branch,customer,part_number,part_name,category,qty,unit_price,currency,sale_date
+1,Makassar,PT Nusantara G.E.T,GET-CE-210,Cutting Edge,GET,8,319.4,USD,2/19/2025
+2,Samarinda,PT Rimba Sawit,GET-TT-120,Tooth,GET,4,114.29,USD,3/22/2025
+3,Banjarmasin,CV Makmur Jaya,TY-27.00R49,Tyre 27.00R49,Tyre,6,50.35,USD,4/21/2025
+4,Balikpapan,PT Bar Mining,UC-TS-320,Track Shoe,UC,22,53.18,USD,1/17/2025
+5,Samarinda,PT Bar Mining,GET-TT-120,Tooth,GET,28,488.19,USD,6/15/2025
+6,Samarinda,CV Makmur Jaya,TY-18.00R33,Tyre 18.00R33,Tyre,23,492.45,USD,1/3/2025
+7,Samarinda,PT Rimba Sawit,TY-27.00R49,Tyre 27.00R49,Tyre,9,79.27,USD,4/25/2025
+8,Banjarmasin,PT Bar Mining,GET-CE-210,Cutting Edge,GET,9,57.18,USD,2/20/2025
+9,Balikpapan,CV Makmur Jaya,GET-CE-210,Cutting Edge,GET,29,424.94,USD,3/14/2025
+10,Balikpapan,PT Bar Mining,UC-TS-320,Track Shoe,UC,8,389.91,USD,6/6/2025
+11,Banjarmasin,CV Makmur Jaya,TY-18.00R33,Tyre 18.00R33,Tyre,22,64.09,USD,2/26/2025
+12,Banjarmasin,PT Bar Mining,GET-CE-210,Cutting Edge,GET,4,319.05,USD,6/23/2025
+13,Jakarta,PT Rimba Sawit,GET-CE-210,Cutting Edge,GET,16,386.29,USD,5/24/2025
+14,Jakarta,CV Makmur Jaya,UC-RL-450,Roller,UC,28,294.21,USD,1/15/2025
+15,Jakarta,PT Kal Coal,TY-27.00R49,Tyre 27.00R49,Tyre,7,240.53,USD,1/12/2025
+16,Samarinda,PT Kal Coal,GET-TT-120,Tooth,GET,8,378.05,USD,1/27/2025
+17,Banjarmasin,PT Bar Mining,TY-27.00R49,Tyre 27.00R49,Tyre,9,461.73,USD,1/8/2025
+18,Banjarmasin,PT Kal Coal,GET-CE-210,Cutting Edge,GET,16,216.87,USD,6/24/2025
+19,Samarinda,CV Makmur Jaya,TY-27.00R49,Tyre 27.00R49,Tyre,8,173.62,USD,3/1/2025
+20,Makassar,PT Nusantara G.E.T,GET-TT-120,Tooth,GET,1,374.78,USD,6/7/2025
+21,Jakarta,PT Bar Mining,GET-TT-120,Tooth,GET,10,247.7,USD,3/7/2025
+22,Balikpapan,PT Rimba Sawit,UC-TS-320,Track Shoe,UC,4,458.4,USD,5/15/2025
+23,Makassar,CV Makmur Jaya,GET-TT-120,Tooth,GET,13,84.64,USD,3/19/2025
+24,Balikpapan,PT Bar Mining,TY-18.00R33,Tyre 18.00R33,Tyre,10,413.65,USD,1/21/2025
+25,Balikpapan,CV Makmur Jaya,TY-18.00R33,Tyre 18.00R33,Tyre,12,133.96,USD,6/11/2025
+26,Balikpapan,PT Kal Coal,UC-RL-450,Roller,UC,7,458.07,USD,1/25/2025
+27,Jakarta,CV Makmur Jaya,GET-TT-120,Tooth,GET,13,437.33,USD,6/8/2025
+28,Jakarta,PT Rimba Sawit,GET-TT-120,Tooth,GET,1,103.94,USD,4/24/2025
+29,Jakarta,CV Makmur Jaya,GET-TT-120,Tooth,GET,17,79.2,USD,2/20/2025
+30,Banjarmasin,PT Nusantara G.E.T,GET-CE-210,Cutting Edge,GET,17,116.64,USD,1/27/2025
+31,Banjarmasin,PT Bar Mining,UC-TS-320,Track Shoe,UC,28,73.17,USD,5/1/2025
+32,Samarinda,PT Bar Mining,UC-TS-320,Track Shoe,UC,21,270.25,USD,6/23/2025
+33,Samarinda,PT Nusantara G.E.T,GET-CE-210,Cutting Edge,GET,17,377.7,USD,5/20/2025
+34,Samarinda,PT Kal Coal,UC-RL-450,Roller,UC,9,194.35,USD,6/16/2025
+35,Samarinda,CV Makmur Jaya,TY-27.00R49,Tyre 27.00R49,Tyre,28,354.9,USD,3/26/2025
+36,Samarinda,CV Makmur Jaya,GET-TT-120,Tooth,GET,7,128.46,USD,1/8/2025
+37,Jakarta,PT Nusantara G.E.T,UC-RL-450,Roller,UC,28,380.85,USD,2/23/2025
+38,Banjarmasin,PT Nusantara G.E.T,TY-18.00R33,Tyre 18.00R33,Tyre,7,346.99,USD,2/16/2025
+39,Balikpapan,CV Makmur Jaya,UC-TS-320,Track Shoe,UC,17,158.83,USD,6/12/2025
+40,Makassar,PT Nusantara G.E.T,TY-27.00R49,Tyre 27.00R49,Tyre,23,202.56,USD,3/19/2025
+41,Balikpapan,PT Kal Coal,GET-TT-120,Tooth,GET,24,432.92,USD,1/8/2025
+42,Balikpapan,PT Nusantara G.E.T,GET-CE-210,Cutting Edge,GET,16,95.66,USD,3/25/2025
+43,Banjarmasin,PT Bar Mining,TY-27.00R49,Tyre 27.00R49,Tyre,2,361.35,USD,5/9/2025
+44,Jakarta,CV Makmur Jaya,GET-CE-210,Cutting Edge,GET,1,272.25,USD,4/24/2025
+45,Jakarta,PT Kal Coal,GET-TT-120,Tooth,GET,16,92.15,USD,3/22/2025
+46,Makassar,PT Nusantara G.E.T,TY-18.00R33,Tyre 18.00R33,Tyre,22,457.74,USD,3/2/2025
+47,Jakarta,CV Makmur Jaya,TY-27.00R49,Tyre 27.00R49,Tyre,15,271.63,USD,5/16/2025
+48,Balikpapan,PT Nusantara G.E.T,GET-TT-120,Tooth,GET,17,69.62,USD,4/14/2025
+49,Samarinda,CV Makmur Jaya,TY-27.00R49,Tyre 27.00R49,Tyre,9,478.88,USD,5/17/2025
+50,Makassar,PT Nusantara G.E.T,TY-18.00R33,Tyre 18.00R33,Tyre,28,433.85,USD,5/21/2025
+51,Samarinda,PT Bar Mining,UC-TS-320,Track Shoe,UC,25,227.61,USD,6/26/2025
+52,Banjarmasin,PT Bar Mining,GET-TT-120,Tooth,GET,27,182.88,USD,2/17/2025
+53,Jakarta,PT Nusantara G.E.T,UC-TS-320,Track Shoe,UC,22,211.77,USD,5/10/2025
+54,Samarinda,PT Bar Mining,UC-RL-450,Roller,UC,25,325.18,USD,4/26/2025
+55,Balikpapan,PT Rimba Sawit,UC-TS-320,Track Shoe,UC,20,342.48,USD,6/16/2025
+56,Balikpapan,PT Nusantara G.E.T,TY-18.00R33,Tyre 18.00R33,Tyre,23,62.43,USD,2/2/2025
+57,Samarinda,PT Kal Coal,TY-18.00R33,Tyre 18.00R33,Tyre,26,294.19,USD,5/22/2025
+58,Banjarmasin,PT Kal Coal,UC-RL-450,Roller,UC,20,67.48,USD,6/11/2025
+59,Makassar,PT Kal Coal,GET-CE-210,Cutting Edge,GET,8,396.5,USD,4/12/2025
+60,Balikpapan,PT Rimba Sawit,TY-27.00R49,Tyre 27.00R49,Tyre,20,235.11,USD,3/23/2025
+61,Makassar,PT Bar Mining,GET-CE-210,Cutting Edge,GET,28,371.57,USD,3/17/2025
+62,Balikpapan,PT Bar Mining,GET-TT-120,Tooth,GET,23,162.89,USD,2/21/2025
+63,Jakarta,CV Makmur Jaya,TY-18.00R33,Tyre 18.00R33,Tyre,21,76.19,USD,2/1/2025
+64,Jakarta,PT Rimba Sawit,UC-RL-450,Roller,UC,21,337.22,USD,5/7/2025
+65,Makassar,PT Nusantara G.E.T,TY-27.00R49,Tyre 27.00R49,Tyre,12,304.72,USD,3/5/2025
+66,Jakarta,PT Rimba Sawit,TY-18.00R33,Tyre 18.00R33,Tyre,14,91.31,USD,1/14/2025
+67,Balikpapan,PT Rimba Sawit,TY-18.00R33,Tyre 18.00R33,Tyre,12,57.72,USD,2/16/2025
+68,Balikpapan,PT Kal Coal,TY-27.00R49,Tyre 27.00R49,Tyre,5,229.33,USD,2/22/2025
+69,Balikpapan,PT Bar Mining,TY-27.00R49,Tyre 27.00R49,Tyre,20,218.58,USD,2/19/2025
+70,Jakarta,PT Rimba Sawit,UC-RL-450,Roller,UC,13,123.32,USD,2/17/2025
+71,Samarinda,CV Makmur Jaya,GET-CE-210,Cutting Edge,GET,24,354.73,USD,3/1/2025
+72,Makassar,PT Nusantara G.E.T,UC-TS-320,Track Shoe,UC,11,473.66,USD,3/1/2025
+73,Banjarmasin,PT Nusantara G.E.T,UC-TS-320,Track Shoe,UC,12,173.28,USD,4/14/2025
+74,Makassar,PT Nusantara G.E.T,UC-RL-450,Roller,UC,18,357.35,USD,1/26/2025
+75,Banjarmasin,PT Bar Mining,TY-27.00R49,Tyre 27.00R49,Tyre,26,203.28,USD,3/9/2025
+76,Banjarmasin,PT Rimba Sawit,GET-CE-210,Cutting Edge,GET,18,333.02,USD,5/24/2025
+77,Jakarta,PT Rimba Sawit,GET-CE-210,Cutting Edge,GET,29,176.92,USD,2/5/2025
+78,Samarinda,PT Kal Coal,UC-TS-320,Track Shoe,UC,3,235.68,USD,2/17/2025
+79,Makassar,CV Makmur Jaya,TY-18.00R33,Tyre 18.00R33,Tyre,17,355.93,USD,1/3/2025
+80,Jakarta,PT Kal Coal,UC-TS-320,Track Shoe,UC,20,421.91,USD,6/13/2025
+81,Samarinda,PT Kal Coal,GET-TT-120,Tooth,GET,4,54.88,USD,1/19/2025
+82,Jakarta,CV Makmur Jaya,GET-CE-210,Cutting Edge,GET,14,354.55,USD,4/19/2025
+83,Makassar,PT Rimba Sawit,UC-RL-450,Roller,UC,3,321.1,USD,4/27/2025
+84,Balikpapan,PT Rimba Sawit,TY-27.00R49,Tyre 27.00R49,Tyre,23,401.58,USD,5/21/2025
+85,Banjarmasin,PT Bar Mining,UC-RL-450,Roller,UC,5,381.67,USD,5/11/2025
+86,Banjarmasin,CV Makmur Jaya,GET-TT-120,Tooth,GET,9,392.68,USD,4/17/2025
+87,Makassar,PT Bar Mining,TY-27.00R49,Tyre 27.00R49,Tyre,9,419.84,USD,2/2/2025
+88,Makassar,PT Rimba Sawit,TY-27.00R49,Tyre 27.00R49,Tyre,6,493.99,USD,5/1/2025
+89,Balikpapan,PT Kal Coal,TY-18.00R33,Tyre 18.00R33,Tyre,7,493.7,USD,4/4/2025
+90,Balikpapan,PT Nusantara G.E.T,TY-18.00R33,Tyre 18.00R33,Tyre,29,220.09,USD,3/10/2025
+91,Samarinda,PT Nusantara G.E.T,UC-RL-450,Roller,UC,13,55.11,USD,4/26/2025
+92,Balikpapan,PT Rimba Sawit,GET-CE-210,Cutting Edge,GET,9,384.9,USD,3/13/2025
+93,Jakarta,CV Makmur Jaya,GET-CE-210,Cutting Edge,GET,17,87.3,USD,1/6/2025
+94,Banjarmasin,CV Makmur Jaya,TY-27.00R49,Tyre 27.00R49,Tyre,13,486.45,USD,5/15/2025
+95,Makassar,PT Nusantara G.E.T,TY-27.00R49,Tyre 27.00R49,Tyre,28,83.21,USD,3/19/2025
+96,Jakarta,PT Bar Mining,GET-CE-210,Cutting Edge,GET,15,333.23,USD,6/15/2025
+97,Makassar,PT Nusantara G.E.T,UC-TS-320,Track Shoe,UC,16,381.7,USD,3/12/2025
+98,Balikpapan,CV Makmur Jaya,UC-RL-450,Roller,UC,21,174.82,USD,4/4/2025
+99,Banjarmasin,CV Makmur Jaya,UC-RL-450,Roller,UC,18,169.67,USD,5/9/2025
+100,Samarinda,PT Kal Coal,GET-CE-210,Cutting Edge,GET,9,189.29,USD,4/13/2025
+101,Makassar,PT Rimba Sawit,GET-CE-210,Cutting Edge,GET,14,84.29,USD,6/18/2025
+102,Makassar,PT Kal Coal,GET-TT-120,Tooth,GET,2,87.24,USD,6/18/2025
+103,Makassar,PT Rimba Sawit,GET-TT-120,Tooth,GET,23,235.06,USD,6/1/2025
+104,Jakarta,PT Nusantara G.E.T,UC-RL-450,Roller,UC,21,387.31,USD,1/22/2025
+105,Samarinda,PT Kal Coal,GET-TT-120,Tooth,GET,13,78.58,USD,1/3/2025
+106,Makassar,CV Makmur Jaya,UC-TS-320,Track Shoe,UC,17,290.46,USD,5/6/2025
+107,Makassar,PT Rimba Sawit,GET-TT-120,Tooth,GET,21,475.14,USD,2/19/2025
+108,Makassar,PT Kal Coal,UC-TS-320,Track Shoe,UC,14,163.15,USD,5/13/2025
+109,Jakarta,PT Kal Coal,GET-CE-210,Cutting Edge,GET,8,328.16,USD,4/8/2025
+110,Banjarmasin,PT Bar Mining,UC-RL-450,Roller,UC,22,397.54,USD,3/18/2025
+111,Jakarta,CV Makmur Jaya,GET-CE-210,Cutting Edge,GET,5,89.78,USD,3/25/2025
+112,Makassar,PT Rimba Sawit,UC-TS-320,Track Shoe,UC,14,366.84,USD,3/7/2025
+113,Balikpapan,PT Bar Mining,TY-18.00R33,Tyre 18.00R33,Tyre,6,323.64,USD,2/15/2025
+114,Samarinda,PT Bar Mining,GET-TT-120,Tooth,GET,20,296.35,USD,1/24/2025
+115,Banjarmasin,PT Nusantara G.E.T,GET-CE-210,Cutting Edge,GET,17,477.28,USD,4/10/2025
+116,Banjarmasin,PT Kal Coal,UC-TS-320,Track Shoe,UC,28,79.81,USD,5/2/2025
+117,Makassar,PT Bar Mining,TY-18.00R33,Tyre 18.00R33,Tyre,13,144.11,USD,3/16/2025
+118,Samarinda,PT Kal Coal,GET-TT-120,Tooth,GET,23,107.62,USD,3/22/2025
+119,Balikpapan,PT Kal Coal,GET-CE-210,Cutting Edge,GET,3,443.44,USD,3/18/2025
+120,Banjarmasin,PT Nusantara G.E.T,TY-27.00R49,Tyre 27.00R49,Tyre,19,419.81,USD,2/10/2025
